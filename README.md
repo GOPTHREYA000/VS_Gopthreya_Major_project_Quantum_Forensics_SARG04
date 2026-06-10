@@ -1,1 +1,1 @@
-# VS_Gopthreya_Major_project_Quantum_Forensics_SARG04
+# Quantum-Inspired Digital Watermarking for Forensic Evidence Authentication Using SARG04 protocol
