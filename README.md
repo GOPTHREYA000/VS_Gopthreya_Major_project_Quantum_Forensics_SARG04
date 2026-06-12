@@ -345,7 +345,7 @@ Metrics:
 
 ---
 
-# 📊 Evaluation Metrics
+# Evaluation Metrics
 
 ## PSNR (Peak Signal-to-Noise Ratio)
 
