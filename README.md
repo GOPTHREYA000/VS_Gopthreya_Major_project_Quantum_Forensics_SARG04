@@ -1,6 +1,6 @@
-# 🔐 Quantum-Inspired Digital Watermarking for Forensic Evidence Authentication Using SARG04 Protocol
+# Quantum-Inspired Digital Watermarking for Forensic Evidence Authentication Using SARG04 Protocol
 
-## 📖 Overview
+##  Overview
 
 Digital forensic images are vulnerable to unauthorized modifications, manipulation, and tampering. Ensuring the authenticity and integrity of digital evidence is a major challenge in cybersecurity and forensic investigations.
 
@@ -16,7 +16,7 @@ The framework generates a secure shared key using the SARG04 protocol, encrypts 
 
 ---
 
-# 🎯 Project Objectives
+#  Project Objectives
 
 - Generate secure keys using the SARG04 protocol.
 - Encrypt forensic watermark information.
@@ -29,7 +29,7 @@ The framework generates a secure shared key using the SARG04 protocol, encrypts 
 
 ---
 
-# 🏗️ System Architecture
+#  System Architecture
 
 ```text
 Alice
@@ -70,9 +70,9 @@ AUTHENTIC / TAMPERED
 
 ---
 
-# 🔬 Core Technologies Used
+#  Core Technologies Used
 
-## 1️⃣ SARG04 Quantum Key Distribution (QKD)
+## 1️ SARG04 Quantum Key Distribution (QKD)
 
 SARG04 is used to securely generate a shared secret key between Alice and Bob.
 
@@ -92,7 +92,7 @@ SARG04 is used to securely generate a shared secret key between Alice and Bob.
 
 ---
 
-## 2️⃣ Discrete Wavelet Transform (DWT)
+## 2️ Discrete Wavelet Transform (DWT)
 
 DWT is used to embed watermark information in the frequency domain.
 
@@ -133,7 +133,7 @@ Watermarked Image
 
 ---
 
-## 3️⃣ XOR-Based Watermark Encryption
+## 3️ XOR-Based Watermark Encryption
 
 The generated SARG04 key is used to encrypt watermark information before embedding.
 
@@ -158,7 +158,7 @@ Encrypted Watermark
 
 ---
 
-## 4️⃣ Digital Watermarking
+## 4️ Digital Watermarking
 
 Digital watermarking is used to hide authentication information inside forensic images.
 
@@ -171,7 +171,7 @@ Digital watermarking is used to hide authentication information inside forensic 
 
 ---
 
-## 5️⃣ Forensic Evidence Authentication
+## 5️ Forensic Evidence Authentication
 
 Used to verify whether a digital image has been modified after transmission.
 
@@ -191,7 +191,7 @@ AUTHENTIC / TAMPERED
 
 ---
 
-# 🧰 Libraries Used
+# Libraries Used
 
 | Library | Purpose |
 |----------|----------|
@@ -205,7 +205,7 @@ AUTHENTIC / TAMPERED
 
 ---
 
-# ⚙️ Algorithms Implemented
+# Algorithms Implemented
 
 ## SARG04 Key Generation
 
@@ -273,7 +273,7 @@ Purpose:
 
 ---
 
-# 🚀 Project Workflow
+# Project Workflow
 
 ## Stage 1 – SARG04 Key Generation
 
@@ -395,7 +395,7 @@ Measures watermark recovery accuracy.
 
 ---
 
-# 📈 Experimental Results
+# Experimental Results
 
 | Metric | Result |
 |----------|----------|
@@ -410,7 +410,7 @@ Measures watermark recovery accuracy.
 
 ---
 
-# 🔒 Security Features
+# Security Features
 
 - SARG04-based secure key generation
 - Shared secret key authentication
